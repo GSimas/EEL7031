@@ -1,5 +1,7 @@
 # EEL7031 - Computação Científica II
 
+> "Melhor jeito que achei para me conhecer foi fazendo o contrário" - **Manoel de Barros**
+
 **Curso**: Engenharia Eletrônica - Universidade Federal de Santa Catarina (UFSC), Florianópolis, SC, Brasil
 
 **Descrição**: Repositório para a Disciplina EEL7031 - Computação Científica II do Curso de Graduação em [Engenharia Eletrônica](geltro.ufsc.br) da [Universidade Federal de Santa Catarina](http://ufsc.br/) (UFSC)
