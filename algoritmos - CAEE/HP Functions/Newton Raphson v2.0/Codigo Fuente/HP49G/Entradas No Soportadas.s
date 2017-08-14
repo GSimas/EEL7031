@@ -1,0 +1,4 @@
+
+ENTRADAS NO SOPORTADAS
+
+=FINDVARS EQU # 2F110  ( symb - {} )

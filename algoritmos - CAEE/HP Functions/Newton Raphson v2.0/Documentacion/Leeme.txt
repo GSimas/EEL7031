@@ -1,0 +1,40 @@
+
+Titulo: NR48/49 v2.0
+Tipo: Biblioteca
+Checksum: HP48 ( # 6E7Dh ; 2152.5 ) HP49 ( # 80E2h ; 2155.5 )
+Autor: Javier Enrique Miranda
+Plataformas Soportadas:	HP48G/G+/GX y HP49G/g+
+
+1. Descripcion
+
+La biblioteca NR48/49 usa el metodo de Newton Raphson para hallar la solucion de 
+ecuaciones de una variable.
+
+NR48/49 esta escrita en SysRPL, es de facil uso y proporciona si el usuario asi
+lo requiere una tabla de iteraciones ( el programa que forma la tabla se llama
+'Tabulador4849' y te lo puedes bajar completo de www.hpcalc.org ) o simplemente
+el resultado.
+
+2. Notas
+
+- Si tu tabla o solución te da este resultado "/0" quiere decir que el programa
+  termino por una división entre cero.
+- Si te sale el mensage "Raiz No Hallada", puedes activar la bandera de usuario
+  3 ( 3 SF ) para que te de igualmente el valor en el que paro las iteraciones
+  el programa, para poder estimar asi un mejor valor inicial.
+
+3. Copyright
+
+La biblioteca NR48/49 se distribuye bajo dominio público confiando en que sea de
+utilidad, pero se suministra "tal cual" y puede modificarse sin previo aviso.
+No se da ninguna garantía de ningún tipo con respecto al software o la
+documentación. El autor no se hace responsable de cualquier error ni de
+consecuencias de cualquier tipo relacionadas con el software y la documentación.
+
+4. El Autor
+
+Javier Enrique Miranda
+Cochabamba - Bolivia 
+Universidad Mayor de San Simón 
+Facultad de Ciencias y Tecnología ( Carrera de Ingeniería Civil )
+e_mail: <ej_miranda@hotmail.com>
